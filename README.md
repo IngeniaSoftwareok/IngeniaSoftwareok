@@ -1,31 +1,33 @@
 # Agustin Crudo · Ingenia Software
 
-![Agustin Crudo. Sistemas de gestión y soluciones web a medida.](assets/presentacion.svg)
+![Agustin Crudo. Sistemas de gestión y desarrollo web a medida.](assets/presentacion.svg)
 
-Soy programador independiente e **Ingenia Software es mi marca comercial**. Trabajo en sistemas de gestión, aplicaciones para negocios y soluciones web a medida.
+Soy Agustin Crudo, programador independiente y creador de **Ingenia Software**. Desarrollo sistemas de gestión, sitios y aplicaciones web para negocios.
 
-Me enfoco en comprender el proceso de trabajo y convertir sus necesidades en herramientas útiles. Combino programación y herramientas de IA durante el desarrollo y las iteraciones de mejora.
+Me dedico a automatizar tareas comerciales y administrativas: preparar presupuestos, generar documentos, organizar ventas y conectar la información que una empresa usa todos los días. Trabajo directamente con cada cliente para definir lo que necesita y mejorar la solución a partir de su uso.
 
-## Proyectos profesionales seleccionados
+## Proyectos
 
-| Proyecto | Qué resuelve | Estado |
+| Proyecto | Qué desarrollé | Estado |
 |---|---|---|
-| [Gestión para una empresa de obras](https://github.com/IngeniaSoftwareok/caso-gestion-obras) | Presupuestos, documentos y seguimiento comercial | En uso por vendedores y administrativos; en evolución |
-| [Gestión Multimódulo](https://github.com/IngeniaSoftwareok/caso-gestion-multimodulo) | Operaciones comerciales en módulos conectados | Beta cerrada |
-| [Don Rinaldi](https://github.com/IngeniaSoftwareok/caso-don-rinaldi) | Presentación web, disponibilidad, turnos y administración | Desarrollo para cliente; sin puesta en producción |
+| [Newblock](https://github.com/IngeniaSoftwareok/caso-gestion-obras) | Un sistema que automatiza presupuestos, documentos y tareas de vendedores y administrativos | En uso |
+| [Gestión Multimódulo](https://github.com/IngeniaSoftwareok/caso-gestion-multimodulo) | Un producto con ventas, compras, caja, stock y datos separados por empresa | Beta cerrada |
+| [Don Rinaldi](https://github.com/IngeniaSoftwareok/caso-don-rinaldi) | Una web para barbería con disponibilidad, turnos y administración | Desarrollo para cliente, sin puesta en producción |
 
-Los repositorios de casos contienen capturas, recorridos y decisiones seleccionadas. El código de las aplicaciones comerciales se mantiene privado.
+En cada caso comparto capturas, un video y las decisiones técnicas. El código de las aplicaciones comerciales se mantiene privado.
 
-## Código para revisar
+## Una muestra de código
 
-[Demo de presupuestos en Java](https://github.com/IngeniaSoftwareok/demo-presupuestos-java): una muestra independiente preparada para este portfolio, con importes decimales, entrada CSV, salida JSON y pruebas. No contiene código de los programas comerciales.
+[Demo de presupuestos en Java](https://github.com/IngeniaSoftwareok/demo-presupuestos-java): lee un CSV, calcula importes con `BigDecimal` y genera una salida JSON. Incluye ejemplos y pruebas automatizadas.
 
-## Tecnologías en mis proyectos
+## Cómo trabajo
 
-Java · Spring Boot · JavaFX · SQL · React / Next.js · TypeScript.
+Combino programación y herramientas de IA para desarrollar e iterar las soluciones. Me ocupo de definir los flujos, revisar el comportamiento del programa e incorporar las mejoras que necesita cada proyecto.
 
-## Conversemos
+Trabajo con Java, Spring Boot, JavaFX, SQL, React, Next.js y TypeScript.
 
-Me interesan proyectos freelance y oportunidades laborales en desarrollo de software.
+## Contacto
 
-[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [Ingenia Software](https://ingenia-software.com.ar/) · [Email profesional](mailto:ingeniasoftwareok@gmail.com)
+Estoy disponible para proyectos freelance y oportunidades laborales en desarrollo de software.
+
+[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [Ingenia Software](https://ingenia-software.com.ar/) · [Email](mailto:ingeniasoftwareok@gmail.com)
