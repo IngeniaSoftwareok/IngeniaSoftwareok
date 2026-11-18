@@ -30,4 +30,4 @@ Trabajo con Java, Spring Boot, JavaFX, SQL, React, Next.js y TypeScript.
 
 Estoy disponible para proyectos freelance y oportunidades laborales en desarrollo de software.
 
-[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [Ingenia Software](https://ingenia-software.com.ar/) · [Email](mailto:ingeniasoftwareok@gmail.com)
+[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [CV en PDF](https://ingeniasoftwareok.github.io/portfolio/assets/agustin-crudo-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-crudo/) · [Ingenia Software](https://ingenia-software.com.ar/) · [Email](mailto:ingeniasoftwareok@gmail.com)
