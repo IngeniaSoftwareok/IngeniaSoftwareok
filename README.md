@@ -1,8 +1,8 @@
-# Agustin Crudo · Ingenia Software
+# Agustin Crudo · Desarrollador full stack
 
-![Agustin Crudo. Sistemas de gestión y desarrollo web a medida.](assets/presentacion.svg)
+![Agustin Crudo. Desarrollo full stack con Java y React/Next.js.](assets/presentacion.svg)
 
-Soy Agustin Crudo, programador independiente y creador de **Ingenia Software**. Desarrollo sistemas de gestión, sitios y aplicaciones web para negocios.
+Soy Agustin Crudo, **desarrollador full stack**, con base en **Java y Spring Boot**. Trabajo con React/Next.js para aplicaciones web y con JavaFX para escritorio. Desde 2024 desarrollo de forma independiente bajo mi marca **Ingenia Software**.
 
 Me dedico a automatizar tareas comerciales y administrativas: preparar presupuestos, generar documentos, organizar ventas y conectar la información que una empresa usa todos los días. Trabajo directamente con cada cliente para definir lo que necesita y mejorar la solución a partir de su uso.
 
@@ -28,6 +28,8 @@ Trabajo con Java, Spring Boot, JavaFX, SQL, React, Next.js y TypeScript.
 
 ## Contacto
 
-Estoy disponible para proyectos freelance y oportunidades laborales en desarrollo de software.
+Para oportunidades laborales como desarrollador, escribime a **agustincrudo01@gmail.com**.
 
-[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [CV en PDF](https://ingeniasoftwareok.github.io/portfolio/assets/agustin-crudo-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-crudo/) · [Ingenia Software](https://ingenia-software.com.ar/) · [Email](mailto:ingeniasoftwareok@gmail.com)
+[Portfolio](https://ingeniasoftwareok.github.io/portfolio/) · [CV en PDF](https://ingeniasoftwareok.github.io/portfolio/assets/agustin-crudo-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-crudo/) · [Servicios de Ingenia](https://ingenia-software.com.ar/) · [Contacto personal](mailto:agustincrudo01@gmail.com)
+
+Para contratar servicios de desarrollo: [Servicios de Ingenia](https://ingenia-software.com.ar/) · [Contacto comercial](mailto:ingeniasoftwareok@gmail.com).
