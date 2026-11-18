@@ -2,7 +2,7 @@
 
 ![Agustin Crudo. Sistemas de gestión y soluciones web a medida.](assets/presentacion.svg)
 
-Soy programador independiente y **Ingenia Software es mi marca comercial**. Trabajo en sistemas de gestión, aplicaciones para negocios y soluciones web a medida.
+Soy programador independiente e **Ingenia Software es mi marca comercial**. Trabajo en sistemas de gestión, aplicaciones para negocios y soluciones web a medida.
 
 Me enfoco en comprender el proceso de trabajo y convertir sus necesidades en herramientas útiles. Combino programación y herramientas de IA durante el desarrollo y las iteraciones de mejora.
 
