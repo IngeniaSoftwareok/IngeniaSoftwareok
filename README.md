@@ -18,7 +18,9 @@ En cada caso comparto capturas, un video y las decisiones técnicas. El código 
 
 ## Una muestra de código
 
-[Demo de presupuestos en Java](https://github.com/IngeniaSoftwareok/demo-presupuestos-java): lee un CSV, calcula importes con `BigDecimal` y genera una salida JSON. Incluye ejemplos y pruebas automatizadas.
+**Presupuestos para instalaciones eléctricas.** Armé una aplicación para cotizar materiales y mano de obra, guardar presupuestos y volver a abrirlos desde el historial. El repositorio incluye la interfaz en Next.js, el backend en Spring Boot y MySQL, y pruebas para verificar que un reintento de guardado conserve un solo presupuesto.
+
+[Probar la demo web](https://ingeniasoftwareok.github.io/presupuestos-electricos/) · [Ver el código](https://github.com/IngeniaSoftwareok/presupuestos-electricos)
 
 ## Cómo trabajo
 
