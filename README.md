@@ -10,7 +10,7 @@ Me dedico a automatizar tareas comerciales y administrativas: preparar presupues
 
 | Proyecto | Qué desarrollé | Estado |
 |---|---|---|
-| [Newblock](https://github.com/IngeniaSoftwareok/caso-gestion-obras) | Un sistema que automatiza presupuestos, documentos y tareas de vendedores y administrativos | En uso |
+| [Newblock](https://github.com/IngeniaSoftwareok/caso-gestion-obras) | Un sistema que automatiza presupuestos, documentos y tareas de vendedores y administrativos | En uso por 9 vendedores y 3 personas de administración |
 | [Gestión Multimódulo](https://github.com/IngeniaSoftwareok/caso-gestion-multimodulo) | Un producto con ventas, compras, caja, stock y datos separados por empresa | Beta cerrada |
 | [Don Rinaldi](https://github.com/IngeniaSoftwareok/caso-don-rinaldi) | Una web para barbería con disponibilidad, turnos y administración | Desarrollo para cliente, sin puesta en producción |
 
